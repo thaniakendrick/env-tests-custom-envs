@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Startedasda
 
-First,un the development ser
+First,un the development 
 
 ```bas
 npm run
